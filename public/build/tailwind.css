@@ -10856,7 +10856,11 @@ video {
 .flow-root {
   display: flow-root;
 }
-
+.grid-3{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1.5rem;  
+}
 .grid {
   display: grid;
 }
