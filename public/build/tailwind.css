@@ -1,3 +1,9 @@
+.grid1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1.5rem;
+}
+
 /* css/tailwind.css */
 
 /* ! tailwindcss v2.0.4 | MIT License | https://tailwindcss.com */
